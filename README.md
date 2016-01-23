@@ -8,7 +8,7 @@ To use Quickadmin with Laravel Laravel 5.1.11 use branch `0.4.x`
 
 ###Please note: QuickAdmin requires fresh Laravel installation
 
-1. clone this repo.
+1. Clone this repo.
 2. Run `composer install`
 3. Configure your .env file with correct database information
 4. Run `php artisan quickadmin:install` and fill the required information.
