@@ -15,6 +15,10 @@ Route::get('/', function () {
     return Redirect::to('/admin');
 });
 
+Route::get('/home', function () {
+    return Redirect::to('/admin');
+});
+
 /*
 |--------------------------------------------------------------------------
 | Application Routes
